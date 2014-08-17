@@ -1,0 +1,88 @@
+\section{Programs}
+\frame{
+    \center \LARGE{Programs ?}
+}
+\begin{frame}
+    \frametitle{Builtins}
+    \begin{itemize}
+	\item Some commands that you'll use are not programs
+	\begin{itemize}
+	    \item They're called `builtins`
+	    \item Builtins are within your shell
+	\end{itemize}
+	\item Some useful builtins : cat, ls, cp, cp, mv, mkdir, rm
+	\item Their names are logically chosen
+	\begin{itemize}
+	    \item cat for Con\textbf{cat}enate
+	    \item cp for \textbf{C}o\textbf{p}y
+	    \item and so on
+	\end{itemize}
+    \end{itemize}
+\end{frame}
+
+\begin{frame}
+    Insert a demo here
+\end{frame}
+
+\begin{frame}
+    \frametitle{Programs}
+    \begin{itemize}
+	\item Your system is built with programs that are required
+	\item Some distributions are built with a lot of programs for the final user (Ubuntu, Mint, etc..)
+	\item Some are built with the minimum required (Arch, Gentoo, Crux, etc..)
+	\item But you can install more programs with a Package Manager
+    \end{itemize}
+\end{frame}
+
+\begin{frame}
+    \frametitle{Combining programs}
+    \begin{itemize}
+	\item The results of your commands are displayed on your terminal
+	\item But it's possible to redirect them
+	\begin{itemize}
+	    \item >
+	    \item >>
+	\end{itemize}
+	\item You can also combine commands with a pipe : `|`
+	\begin{itemize}
+	    \item Pipes are not limited, eg : ls -la | grep . | grep vim
+	\end{itemize}
+    \end{itemize}
+\end{frame}
+
+\begin{frame}
+    \frametitle{Rights}
+    \begin{itemize}
+	\item In Linux (and UNIXes) everything is a file, programs too
+	\item Users and groups have some rights
+	\begin{itemize}
+	    \item read
+	    \item write
+	    \item execute
+	\end{itemize}
+	\item These rights can be modified
+	\begin{itemize}
+	    \item man chown chgrp chmod
+	\end{itemize}
+    \end{itemize}
+\end{frame}
+
+\frame{
+    \center \LARGE{Can I haz root ?}
+}
+
+\begin{frame}
+    \frametitle{root}
+    \begin{itemize}
+	\item "root" is the default user on your machine
+	\item root has all rights / permissions (i.e : root is kinda the god of your os)
+	    \begin{itemize}
+		\item chmod -R 777 / 
+	    \end{itemize}
+	\item It's highly recommended to use the root account only for maintenance operations
+	\begin{itemize}
+	    \item sudo
+	    \item su -c
+	\end{itemize}
+    \end{itemize}
+\end{frame}
