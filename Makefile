@@ -1,4 +1,5 @@
 PICS=linux_timeline.png
+PICS+=manofsteel.png
 DOWNLOADS=$(PICS)
 
 all:	$(DOWNLOADS) \
