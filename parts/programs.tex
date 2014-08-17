@@ -1,59 +1,62 @@
-\section{Programs}
+\section{Programmes}
 \frame{
-    \center \LARGE{Programs ?}
+    \center \LARGE{Programmes ?}
 }
 \begin{frame}
     \frametitle{Builtins}
     \begin{itemize}
-	\item Builtins are within your shell
+	\item Les builtins font partie du shell
 	\item cat, ls, cp, cp, mv, mkdir, rm
-	\item Their names are logically chosen
+	\item Leur nom n'est pas choisi au hasard
 	\begin{itemize}
-	    \item cat for Con\textbf{cat}enate
-	    \item cp for \textbf{C}o\textbf{p}y
-	    \item and so on
+        \item cat pour Conc\textbf{cat}éner
+	    \item cp pour \textbf{C}o\textbf{p}ie
+	    \item etc.
 	\end{itemize}
     \end{itemize}
 \end{frame}
 
 \begin{frame}
-    Insert a demo here
+        Demo.
 \end{frame}
 
 \begin{frame}
-    \frametitle{Programs}
+    \frametitle{Programmes}
     \begin{itemize}
-	\item Your system is built with programs that are required
-	\item Some distributions are built with a lot of programs for the final user (Ubuntu, Mint, etc..)
-	\item Some are built with the minimum required (Arch, Gentoo, Crux, etc..)
-	\item But you can install more programs with a Package Manager
+	\item Votre OS est livré avec les programmes nécéssaires à son fonctionnement
+    \begin{itemize}
+        \item Certaines distros sont livrées avec énormément de programmes pour
+                l'utilisateur (Ubuntu, Mint, etc.)
+        \item D'autres sont livrées avec le minimum (Arch, Gentoo, Crux, etc.)
+    \end{itemize}
+	\item Il est possible d'en ajouter d'autres via un Gestionnaire de Paquets
     \end{itemize}
 \end{frame}
 
-\begin{frame}
-    \frametitle{Combining programs}
+\begin{frame}[fragile]
+    \frametitle{Combinons des programmes}
     \begin{itemize}
 	\item Redirections :
 	\begin{itemize}
 	    \item >
-	    \item >>
+        \item \begin{verbatim}>>\end{verbatim}
 	\end{itemize}
 	\item Pipe : `|`
 	\begin{itemize}
-	    \item Pipes are not limited, eg : ls -la | grep . | grep vim
+	    \item ls -la | grep . | grep vim
 	\end{itemize}
     \end{itemize}
 \end{frame}
 
 \begin{frame}
-    \frametitle{Rights}
+    \frametitle{Droits}
     \begin{itemize}
-	\item read
-	\item write
-	\item execute
-	\item These rights can be modified
+        \item lecture (r)
+        \item écriture (w)
+        \item exécution (x)
+	\item Ils sont modifiables
 	\begin{itemize}
-	    \item man chown chgrp chmod
+	    \item chown chgrp chmod
 	\end{itemize}
     \end{itemize}
 \end{frame}
@@ -65,7 +68,7 @@
 \begin{frame}
     \frametitle{root}
     \begin{itemize}
-	\item "root" is the default user on your machine
+	\item "root" est l'utilisateur par défaut de votre OS
 	\item sudo
 	\item su -c
     \end{itemize}

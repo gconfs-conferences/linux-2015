@@ -1,0 +1,12 @@
+\frametitle{Combinons des programmes}
+    \begin{itemize}
+\item Redirections :
+\begin{itemize}
+    \item >
+        \item \begin{verbatim}>>\end{verbatim}
+\end{itemize}
+\item Pipe : `|`
+\begin{itemize}
+    \item ls -la | grep . | grep vim
+\end{itemize}
+    \end{itemize}
