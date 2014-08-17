@@ -5,12 +5,8 @@
 \begin{frame}
     \frametitle{Builtins}
     \begin{itemize}
-	\item Some commands that you'll use are not programs
-	\begin{itemize}
-	    \item They're called `builtins`
-	    \item Builtins are within your shell
-	\end{itemize}
-	\item Some useful builtins : cat, ls, cp, cp, mv, mkdir, rm
+	\item Builtins are within your shell
+	\item cat, ls, cp, cp, mv, mkdir, rm
 	\item Their names are logically chosen
 	\begin{itemize}
 	    \item cat for Con\textbf{cat}enate
@@ -37,13 +33,12 @@
 \begin{frame}
     \frametitle{Combining programs}
     \begin{itemize}
-	\item The results of your commands are displayed on your terminal
-	\item But it's possible to redirect them
+	\item Redirections :
 	\begin{itemize}
 	    \item >
 	    \item >>
 	\end{itemize}
-	\item You can also combine commands with a pipe : `|`
+	\item Pipe : `|`
 	\begin{itemize}
 	    \item Pipes are not limited, eg : ls -la | grep . | grep vim
 	\end{itemize}
@@ -53,13 +48,9 @@
 \begin{frame}
     \frametitle{Rights}
     \begin{itemize}
-	\item In Linux (and UNIXes) everything is a file, programs too
-	\item Users and groups have some rights
-	\begin{itemize}
-	    \item read
-	    \item write
-	    \item execute
-	\end{itemize}
+	\item read
+	\item write
+	\item execute
 	\item These rights can be modified
 	\begin{itemize}
 	    \item man chown chgrp chmod
@@ -75,14 +66,7 @@
     \frametitle{root}
     \begin{itemize}
 	\item "root" is the default user on your machine
-	\item root has all rights / permissions (i.e : root is kinda the god of your os)
-	    \begin{itemize}
-		\item chmod -R 777 / 
-	    \end{itemize}
-	\item It's highly recommended to use the root account only for maintenance operations
-	\begin{itemize}
-	    \item sudo
-	    \item su -c
-	\end{itemize}
+	\item sudo
+	\item su -c
     \end{itemize}
 \end{frame}
