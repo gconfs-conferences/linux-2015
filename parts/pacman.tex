@@ -1,31 +1,30 @@
-\section{Package Manager}
+\section{Gestionnaire de paquets}
 \frame{
-    \center \LARGE{Package Manager}
+    \center \LARGE{Gestionnaire de paquets}
 }
 \begin{frame}
-    \frametitle{What is a package manager ?}
+    \frametitle{Qu'est-ce qu'un gestionnaire de paquets ?}
     \begin{itemize}
-        \item<1 -> It is a program that manages all the packages on your system
-        \item<2 -> It is used to keep your system up-to-date, to install new
-        packages, to remove non-desired packages from your system.
-        \item<3 -> When a new package is to be installed the package manager will
-        take care of all dependencies and their dependencies, and so on.
-        \item<4 -> In fact it may also give some advices about optional
-        dependencies.
+        \item<1 -> C'est un programme qui gère les tous les paquets du système.
+        \item<2 -> Il sert à maintenir votre système à jour, à installer et à
+        supprimer des paquets.
+        \item<3 -> Il gère aussi le système de dépendances des différents
+        paquets.
+        \item<4 -> Il peut aussi parfois vous conseiller d'installer des
+        dépendances optionelles lors de l'installation d'un paquet.
     \end{itemize}
 \end{frame}
 \begin{frame}
-    \frametitle{apt is your friend}
+    \frametitle{apt est votre meilleur ami}
     \begin{itemize}
-        \item apt has many features such as:
+        \item Les principales features d'apt sont :
         \begin{itemize}
-            \item<1 -> install a package apt-get install <package name>
-            \item<2 -> remove a package : apt-get remove <package name>
-            \item<3 -> update the package database : apt-get update
-            \item<4 -> upgrade the packages installed on your system : apt-get upgrade
-            \item<5 -> search for a package apt-cache search <expression>
-            \item<6 -> for a more complete set of commands and features : man
-            apt-get, man apt-cache
+            \item<1 -> installer un paquet : apt-get install <nom du paquet>
+            \item<2 -> supprimer un paquet : apt-get remove <nom du paquet>
+            \item<3 -> mettre à jour la base de donnée des paquets : apt-get update
+            \item<4 -> mettre à jour les paquets du système : apt-get upgrade
+            \item<5 -> rechercher un paquet : apt-cache search <expression>
+            \item<6 -> une liste plus complète des features d'apt : man apt-get, man apt-cache
         \end{itemize}
     \end{itemize}
 \end{frame}
