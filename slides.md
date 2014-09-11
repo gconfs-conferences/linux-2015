@@ -73,7 +73,7 @@
 - etc...
 - Allez au TP après
 
-## On voit le GUI tard
+## On voit la GUI tard
 - Différentes distributions == Différentes GUI
 - Choix de l'environnement graphique
 
@@ -115,16 +115,4 @@
 > - `man apt-get`, `man apt-cache`
 
 # Environnements
-
-## Environnements de bureau
-> - Unity
-> - XFCE 4
-> - Gnome 3
-> - KDE 4
-
-## Gestionnaires de fenêtres
-> - i3wm
-> - openbox
-> - awesome
-> - dwm
 
