@@ -1,6 +1,6 @@
 DOWNLOADS=$(PICS)
 
-all: pdf
+all: pdf view
 #pdf:
 #	pdflatex slides.tex slides.pdf
 
@@ -11,6 +11,9 @@ pdf:
 		--slide-level 2 \
 		-V theme:Warsaw \
 		-o slides.pdf
+
+view:
+	evince slides.pdf 
 
 clean:
 	rm -f {./,./parts/}*.{aux,log,nav,toc,snm,pdf,out,png}
