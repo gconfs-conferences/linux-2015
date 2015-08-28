@@ -20,6 +20,31 @@
 - Philosophie Unix, assez différente de Windows
 - Orienté utilisateurs avancés
 
+# La documentation
+
+## Man
+- 2 options intéressantes:
+- `man -f ls` (= `whatis`): courte description
+- `man -k ls` (= `apropos`): pages liées
+
+## Man chapters
+- préciser un chapitre:
+- `man 1 printf` ou `man 3 printf`
+- afficher tous les chapitres:
+- `man -a printf`
+
+## Gnu info
+- alternative gnu à `man`
+- `info ls`
+- mais `man` reste beaucoup plus utilisé
+
+## Help
+- courte aide inclue dans le programme
+- `ls --help`
+
+## Google
+- si vous n'avez pas l'information ... google it!
+
 # Le terminal
 
 ## Phase Terminale
@@ -76,18 +101,6 @@
 ## On voit la GUI tard
 - Différentes distributions == Différentes GUI
 - Choix de l'environnement graphique
-
-# Marvel et DC
-
-## Super-man
-- `man` donne accès au... manuel!
-- Organisé en sections
-- `man man`
-
-## Spider-man
-- Le web
-- On a vraiment besoin de dire ça?
-- Stackoverflow, google, etc.
 
 # Les paquets
 
