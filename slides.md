@@ -65,12 +65,31 @@
 > - Peut tout faire
 > - Est légère (plus que le GUI)
 > - Est rapide (plus que le GUI)  
-> - Sent bon  
-> - Est douce au toucher  
-> - A des poils sur le torse  
-> - La CLI est Bien. Mangez-en.  
 
-# L'État d'UNIX
+# le shell
+
+## les basiques
+> - `commande -options paramètres`
+> - `pwd`, `ls` et `tree`
+> - `cd`
+> - `ln`, `ln -s`
+
+## flux 
+> - redirections: `>`,`<`,`>>`,`2>`...
+> - combinaisons (pipes): `|`
+> - allez au tp !
+
+## la recherche
+> - `locate readme`
+> - `find /usr  -name gcc`
+
+## jouer avec les fichiers
+> - `cat`, `less`
+> - `touch`, `mkdir`
+> - `cp`, `mv`
+> - `rm`, `rmdir`
+
+# environnement utilisateur
 
 ## Faisons du droit
 - lecture (read, r)
@@ -86,18 +105,6 @@
 
 # Les programmes
 
-## CLI ose faire ces blagues sérieux?
-- Noms logiques :
-	- con**cat**enate -> `cat`
-	- **c**o**p**y -> `cp`
-	- **l**i**s**t -> `ls`
-- I/O simple
-	- stdin, stdout, stderr
-	- redirections avec `>`/`>>` et `<`\/`<<`
-	- combinaisons avec `|`
-- etc...
-- Allez au TP après
-
 ## On voit la GUI tard
 - Différentes distributions == Différentes GUI
 - Choix de l'environnement graphique
@@ -108,8 +115,6 @@
 > - Ensemble de programmes ou de bibliothèques
 > - Installable
 > - Moyen de simplifier l'installation des programmes
-
-# Gestionnaire de paquets
 
 ## Qu'est-ce qu'un gestionnaire de paquets?
 > - Gère tous les paquets du système
