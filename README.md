@@ -1,6 +1,6 @@
 Initiation à Linux - 2014/2015
 ==============================
 
-Résumé des idées de la conf : http://piratepad.net/gconfs-init-linux
+Résumé des idées de la conf : http://pad.gconfs.fr/p/2015-2016_linux
 
-Speakers : Guillaume 'Corwin' Doré, Clément 'wxcafe' Hertling, Kaci 'Bruce' Adjou
+Speakers : 'Dotty', 'Hellzy', 'Dakey' and 'Saruta'
