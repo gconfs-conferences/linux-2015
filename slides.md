@@ -134,3 +134,35 @@
 
 # Environnements
 
+## Variables d'environnement
+> - $PATH
+> - $HOME
+> - $PWD
+> - $LANG
+
+## Racines
+> - /boot
+> - /dev
+> - /home
+> - /etc
+> - /mnt
+> - /proc
+> - /bin 
+> - /sbin
+> - /lib 
+> - /usr
+> - /tmp
+> - /var
+
+# Distributions
+
+## Debian
+
+## Fedora
+> - Forme beta de Red Hat Enterprise Linux (RHEL)
+> - vitrine d'innovations
+> - 3 "sous-distributions": Server, Workstation et Cloud
+
+## ArchLinux
+
+
