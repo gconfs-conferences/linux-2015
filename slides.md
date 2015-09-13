@@ -162,7 +162,6 @@
 > - Un nom, une philosophie
 	- "Humanity toward others"
 	- "the belief in a universal bond of sharing that connects all humanity"
-	- Secure out-of-the-box
 > - Basée sur Debian
 	- APT
 	- Stabilité
