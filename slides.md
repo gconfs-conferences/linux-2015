@@ -170,6 +170,8 @@
 > - Son propre environnement de Bureau
 	- Unity : basé sur Gnome
 > - Beaucoup de pacquets pré-installés
+
+## Ubuntu
 > - Maintenu par Cannonical
 	- Une companie sud-africaine
 > - Avantages
