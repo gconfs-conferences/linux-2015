@@ -183,6 +183,9 @@
 	- Met en retrait la CLI et le terminal
 	- Versions parfois en retard
 
+## Ubuntu
+![Ubuntu Desktop](ressources/screen_ubuntu.png)
+
 ## Derivées (ubuntu)
 > - (K/X/L)Ubuntu
 	- KDE, XFCE, LXDE
@@ -191,6 +194,8 @@
 	- Unity ? *Rage Quit* !
 	- Cinnamon, Mate
 
+## Un thé à la menthe svp !
+![Mint](ressources/screen_mint.png)
 
 ## Fedora
 > - Forme beta de Red Hat Enterprise Linux (RHEL)
