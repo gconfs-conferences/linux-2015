@@ -68,7 +68,7 @@
 
 # le shell
 
-## les basiques
+## les bases
 > - `commande -options paramètres`
 > - `pwd`, `ls` et `tree`
 > - `cd`
@@ -157,6 +157,30 @@
 # Distributions
 
 ## Debian
+
+## Ubuntu
+> - Un nom, une philosophie
+	- "Humanity toward others"
+	- "the belief in a universal bond of sharing that connects all humanity"
+	- Secure out-of-the-box
+> - Basée sur Debian
+	- APT
+	- Stabilité
+	- 6 months releases - Long Term Support
+> - Son propre environnement de Bureau
+	- Unity : basé sur Gnome
+> - Beaucoup de pacquets pré-installés
+> - Maintenu par Cannonical
+	- Une companie sud-africaine
+> - Avantages
+	- Facile d'utilisation
+	- Intuitif
+	- Parfais pour les débutants / utilisateurs lamdas
+	- Stabilité
+> - Defauts
+	- Lourd
+	- Met en retrait la CLI et le terminal
+	- Version parfois en retard
 
 ## Fedora
 > - Forme beta de Red Hat Enterprise Linux (RHEL)
