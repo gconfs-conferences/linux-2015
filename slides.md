@@ -181,7 +181,16 @@
 > - Defauts
 	- Lourd
 	- Met en retrait la CLI et le terminal
-	- Version parfois en retard
+	- Versions parfois en retard
+
+## Derivées (ubuntu)
+> - (K/X/L)Ubuntu
+	- KDE, XFCE, LXDE
+> - Ubuntu studio
+> - Linux Mint
+	- Unity ? *Rage Quit* !
+	- Cinnamon, Mate
+
 
 ## Fedora
 > - Forme beta de Red Hat Enterprise Linux (RHEL)
