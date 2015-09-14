@@ -202,6 +202,12 @@
 > - vitrine d'innovations
 > - 3 "sous-distributions": Server, Workstation et Cloud
 
+## ArchLinux:   KISS for Keep It Simple, Stupid.
+> - Minimalism
+
 ## ArchLinux
+> - Minimalism
+> - Configured by the user
+> - rolling-release
 
-
+## ArchLinux
