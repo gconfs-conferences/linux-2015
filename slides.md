@@ -202,12 +202,15 @@
 > - vitrine d'innovations
 > - 3 "sous-distributions": Server, Workstation et Cloud
 
-## ArchLinux:   KISS for Keep It Simple, Stupid.
+## ArchLinux:   Keep It Simple, Stupid.
 > - Minimalism
-
-## ArchLinux
-> - Minimalism
-> - Configured by the user
+> - Configured by the user : As Judd Vinet, the founder of the Arch Linux project said: "[Arch Linux] is what you make it."
 > - rolling-release
 
-## ArchLinux
+## ArchLinux:   Keep It Simple, Stupid.
+> - `pacman`
+> - `yaourt`
+> - `systemctl`
+
+## ArchLinux:   Keep It Simple, Stupid.
+![ArchLinux](ressources/arch.png)
