@@ -105,11 +105,13 @@
 # Environnements       
                                                          
 ## Variables d'environnement                                                    
-> - $PATH                                                                       
-> - $HOME                                                                       
-> - $PWD                                                                        
-> - $LANG                                                                       
-                                                                                
+> - $PATH
+> - $HOME
+> - $PWD
+> - $LANG
+> - $TERM
+> - $EDITOR
+
 ## Racines                                                                      
 > - /boot                                                                       
 > - /dev                                                                        
