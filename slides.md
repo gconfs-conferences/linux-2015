@@ -89,7 +89,6 @@
 > - `cp`, `mv`
 > - `rm`, `rmdir`
 
-# environnement utilisateur
 
 ## Faisons du droit
 - lecture (read, r)
@@ -103,11 +102,6 @@
 - `su`, `sudo`
 - réfléchissez
 
-# Les programmes
-
-## On voit la GUI tard
-- Différentes distributions == Différentes GUI
-- Choix de l'environnement graphique
 
 # Les paquets
 
@@ -155,6 +149,11 @@
 > - /var
 
 # Distributions
+
+                                                                                 
+## On voit la GUI tard                                                          
+- Différentes distributions == Différentes GUI                                  
+- Choix de l'environnement graphiques
 
 ## Debian
 
