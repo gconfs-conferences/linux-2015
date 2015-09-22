@@ -80,8 +80,8 @@
 > - allez au tp !
 
 ## la recherche
-> - `locate readme`
 > - `find /usr  -name gcc`
+> - la methode sale (mais efficace): ls / -R | grep tontruc
 
 ## jouer avec les fichiers
 > - `cat`, `less`
