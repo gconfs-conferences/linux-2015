@@ -102,6 +102,27 @@
 - `su`, `sudo`
 - réfléchissez
 
+# Environnements       
+                                                         
+## Variables d'environnement                                                    
+> - $PATH                                                                       
+> - $HOME                                                                       
+> - $PWD                                                                        
+> - $LANG                                                                       
+                                                                                
+## Racines                                                                      
+> - /boot                                                                       
+> - /dev                                                                        
+> - /home                                                                       
+> - /etc                                                                        
+> - /mnt                                                                        
+> - /proc                                                                       
+> - /bin                                                                        
+> - /sbin                                                                       
+> - /lib                                                                        
+> - /usr                                                                        
+> - /tmp                                                                        
+> - /var    
 
 # Les paquets
 
@@ -126,27 +147,6 @@
 > - Rechercher un paquet : `apt-cache search <exp>`
 > - `man apt-get`, `man apt-cache`
 
-# Environnements
-
-## Variables d'environnement
-> - $PATH
-> - $HOME
-> - $PWD
-> - $LANG
-
-## Racines
-> - /boot
-> - /dev
-> - /home
-> - /etc
-> - /mnt
-> - /proc
-> - /bin 
-> - /sbin
-> - /lib 
-> - /usr
-> - /tmp
-> - /var
 
 # Distributions
 
