@@ -209,6 +209,13 @@
 > - vitrine d'innovations
 > - 3 "sous-distributions": Server, Workstation et Cloud
 
+## Fedora
+> - Dandified Yum/Yum (DNF)
+> - RPM Packed Manager (RPM) 
+
+## Fedora
+![Fedora](ressources/fedora.png)
+
 ## ArchLinux:   Keep It Simple, Stupid.
 > - Minimalism
 > - Configured by the user : As Judd Vinet, the founder of the Arch Linux project said: "[Arch Linux] is what you make it."
