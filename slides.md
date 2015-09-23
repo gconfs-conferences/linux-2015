@@ -210,13 +210,9 @@
 > - 3 "sous-distributions": Server, Workstation et Cloud
 
 ## ArchLinux:   Keep It Simple, Stupid.
-> - Minimaliste
-> - L'utilisateur aux commandes
-> - Rolling-release
-> - "[Arch Linux] is what you make it"
-
-## ArchLinux;	Keep It Simple, Stupid
-![Arch](ressources/archfun.png)
+> - Minimalism
+> - Configured by the user : As Judd Vinet, the founder of the Arch Linux project said: "[Arch Linux] is what you make it."
+> - rolling-release
 
 ## ArchLinux:   Keep It Simple, Stupid.
 > - `pacman`
