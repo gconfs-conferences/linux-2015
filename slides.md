@@ -159,7 +159,7 @@
 
 # Distributions
                                                                                  
-## On voit la GUI tard                                                          
+## On va se de`GUI`ser                                                          
 - Différentes distributions == Différentes GUI                                  
 - Choix de l'environnement graphiques
 
