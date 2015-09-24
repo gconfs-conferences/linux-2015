@@ -159,11 +159,34 @@
 
 # Distributions
                                                                                  
-## On va se de`GUI`ser                                                          
-- Différentes distributions == Différentes GUI                                  
-- Choix de l'environnement graphiques
+## On va se deGUIser                                                          
+> - Choix utilisateur avant tout
+> - Différentes distributions ~= Différentes GUI
+> - Windows vs Tails
+> - KDE (saruta -- "KDE c'est bien pour ceux qui aiment KDE")
+
+
+## Debian since 1993
+> - `Debra` et `Ian`
+> - SPI = Software in the Public Interest
+> - GNOME
+> - STAAAABLEEE !!!
+
+## Debian since 1993
+ - `Debra` et `Ian`
+ - SPI = Software in the Public Interest
+ - GNOME
+ - Ou pas.
 
 ## Debian
+> - 4 Branches
+> - Stable
+    - stable/main/
+    - stable/non-free/
+    - stable/contrib/
+  - Testing ..
+  - Unstable ..
+
 
 ## Ubuntu
 > - Un nom, une philosophie
