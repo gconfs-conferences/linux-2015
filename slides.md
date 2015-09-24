@@ -22,24 +22,24 @@
 
 # Le terminal
 
-## Phase Terminale
+## Le terminal
 - Composé de deux éléments :
 	- Émulateur de terminal
 	- Shell
 
-## Les mulets, c'était pas pendant les '80s?
+## L'émulation
 - Datent des terminaux physiques des années 80
 - Ce qu'on appelle couramment un terminal
 
-## Shell que j'aime
-- Exemples : csh, ksh, bash, zsh...
-- Interprète les commandes
-- De vrais langages de programmation
+## Shell heure d'interpréter
+> - Exemples : csh, ksh, bash, zsh...
+> - Interprète les commandes
+> - De vrais langages de programmation
 
-## CLI est-ce qui a fait ces titres?
+## CLIquer, c'est mal
 > - Peut tout faire
 > - Est légère (plus que le GUI)
-> - Est rapide (plus que le GUI)  
+> - Est rapide (plus que le GUI)
 
 # le shell
 
@@ -70,7 +70,7 @@
 - exécution (execute, x)
 - `chown`, `chmod`
 
-## `root`
+## `Root secours`
 - super-utilisateur
 - DANGER
 - `su`, `sudo`
@@ -217,9 +217,13 @@
 ![Fedora](ressources/fedora.png)
 
 ## ArchLinux:   Keep It Simple, Stupid.
-> - Minimalism
-> - Configured by the user : As Judd Vinet, the founder of the Arch Linux project said: "[Arch Linux] is what you make it."
-> - rolling-release
+> - KISS : une philiosophie minimaliste
+> - DIY : une philosophie de débrouillard
+> - Rolling-release : une philosophie qui roule
+> - "[Arch Linux] is what you make it." : et là, c'est le drame.
+
+## ArchLinux: Keep It Simple, Stupid
+![Archlinux](ressources/archfun.png)
 
 ## ArchLinux:   Keep It Simple, Stupid.
 > - `pacman`
@@ -228,3 +232,8 @@
 
 ## ArchLinux:   Keep It Simple, Stupid.
 ![ArchLinux](ressources/arch.png)
+
+## The end
+- Des questions ?
+- TP en salles machines !
+- Merci à tous !
