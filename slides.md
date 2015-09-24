@@ -165,6 +165,19 @@
 > - Windows vs Tails
 > - KDE (saruta -- "KDE c'est bien pour ceux qui aiment KDE")
 
+## On va se deGUIser
+
+> - Windows manager
+    - Openbox
+    - Muffin
+> - Tails manager
+    - i3
+    - XMonad
+    - awesome
+
+## T'ail beau
+![Tail](ressources/tail.png)
+
 
 ## Debian since 1993
 > - `Debra` et `Ian`
