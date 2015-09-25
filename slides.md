@@ -31,7 +31,15 @@
 	- Émulateur de terminal
 	- Shell
 
-## L'émulation
+## Un terminal
+
+![Terminal](ressources/terminal_airport.jpg)
+
+## Un autre terminal
+
+![Terminal](ressources/terminal.jpg)
+
+## D'où ça sort ?
 - Datent des terminaux physiques des années 80
 - Ce qu'on appelle couramment un terminal
 
@@ -54,6 +62,7 @@
 > - `ln`, `ln -s`
 
 ## flux 
+> - Ca se mange un flux ?
 > - redirections: `>`,`<`,`>>`,`2>`...
 > - combinaisons (pipes): `|`
 > - allez au tp !
@@ -101,7 +110,7 @@
 - mais `man` reste beaucoup plus utilisé
 
 ## Help
-- courte aide inclue dans le programme
+- courte aide incluse dans le programme
 - `ls --help`
 
 ## Google
@@ -154,7 +163,6 @@
 > - /lib                                                                        
 > - /usr                                                                        
 > - /tmp                                                                        
-> - /var    
 
 ## Compilons
 > - ./configure
@@ -162,7 +170,7 @@
 > - make install
 
 
-# Distributions
+# Les GUI
                                                                                  
 ## On va se deGUIser                                                          
 > - Choix utilisateur avant tout
@@ -183,6 +191,7 @@
 ## T'ail beau
 ![Tail](ressources/tail.png)
 
+# Distributions
 
 ## Debian since 1993
 > - `Debra` et `Ian`
@@ -224,7 +233,7 @@
 > - Avantages
 	- Facile d'utilisation
 	- Intuitif
-	- Parfais pour les débutants / utilisateurs lamdas
+	- Parfais pour les débutants / utilisateurs lambdas
 	- Stabilité
 > - Defauts
 	- Lourd
