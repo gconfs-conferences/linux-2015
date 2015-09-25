@@ -158,7 +158,7 @@
 > - make install
 
 
-## Les GUI
+# Les GUI
                                                                                  
 ## On va se deGUIser                                                          
 > - Choix utilisateur avant tout
@@ -179,7 +179,7 @@
 ## T'ail beau
 ![Tail](ressources/tail.png)
 
-## Distributions
+# Distributions
 
 ## Debian since 1993
 > - `Debra` et `Ian`
