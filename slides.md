@@ -106,7 +106,7 @@
 - mais `man` reste beaucoup plus utilisé
 
 ## Help
-- courte aide inclue dans le programme
+- courte aide incluse dans le programme
 - `ls --help`
 
 ## Google
