@@ -58,6 +58,7 @@
 > - `ln`, `ln -s`
 
 ## flux 
+> - Ca se mange un flux ?
 > - redirections: `>`,`<`,`>>`,`2>`...
 > - combinaisons (pipes): `|`
 > - allez au tp !
