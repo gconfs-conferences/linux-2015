@@ -145,7 +145,6 @@
 > - /home                                                                       
 > - /etc                                                                        
 > - /mnt                                                                        
-> - /proc                                                                       
 > - /bin                                                                        
 > - /sbin                                                                       
 > - /lib                                                                        
@@ -250,6 +249,7 @@
 ## Fedora
 > - Dandified Yum/Yum (DNF)
 > - RPM Packed Manager (RPM) 
+> - Linus Torvalds a beaucoup utilisé cette distribution.
 
 ## Fedora
 ![Fedora](ressources/fedora.png)
