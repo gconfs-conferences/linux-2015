@@ -229,7 +229,7 @@
 > - Avantages
 	- Facile d'utilisation
 	- Intuitif
-	- Parfais pour les débutants / utilisateurs lamdas
+	- Parfais pour les débutants / utilisateurs lambdas
 	- Stabilité
 > - Defauts
 	- Lourd
