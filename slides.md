@@ -150,7 +150,6 @@
 > - /lib                                                                        
 > - /usr                                                                        
 > - /tmp                                                                        
-> - /var    
 
 ## Compilons
 > - ./configure
