@@ -84,10 +84,12 @@
 - `man -k ls` (= `apropos`): pages liées
 
 ## Man chapters
-- préciser un chapitre:
-- `man 1 printf` ou `man 3 printf`
-- afficher tous les chapitres:
-- `man -a printf`
+> - préciser un chapitre:
+> - `man 1 printf`
+> - `man 3 printf`
+> - `man 3o printf`
+> - afficher tous les chapitres:
+> - `man -a printf`
 
 ## Gnu info
 - alternative gnu à `man`
@@ -104,6 +106,28 @@
 - wiki.archlinux.fr
 - stackoverflow.com
 
+# Les paquets
+
+## Qu'est-ce qu'un package?
+> - Ensemble de programmes ou de bibliothèques
+> - Installable
+> - Moyen de simplifier l'installation des programmes
+
+## Qu'est-ce qu'un gestionnaire de paquets?
+> - Gère tous les paquets du système
+> - Plusieurs fonctions :
+	- Maintient le système a jour
+	- Installe et supprime les paquets
+> - Gère les dépendances
+> - Parfois fournit des conseils (dépendances optionnelles)
+
+## apt est votre meilleur ami
+> - Installer un paquet : `apt-get install <pkg>`
+> - Supprimer un paquet : `apt-get remove <pkg>`
+> - Mettre a jour la DB : `apt-get update`
+> - Mettre a jour le système : `apt-get upgrade`
+> - Rechercher un paquet : `apt-cache search <exp>`
+> - `man apt-get`, `man apt-cache`
 
 # Environnements       
                                                          
@@ -134,28 +158,6 @@
 > - make
 > - make install
 
-# Les paquets
-
-## Qu'est-ce qu'un package?
-> - Ensemble de programmes ou de bibliothèques
-> - Installable
-> - Moyen de simplifier l'installation des programmes
-
-## Qu'est-ce qu'un gestionnaire de paquets?
-> - Gère tous les paquets du système
-> - Plusieurs fonctions :
-	- Maintient le système a jour
-	- Installe et supprime les paquets
-> - Gère les dépendances
-> - Parfois fournit des conseils (dépendances optionnelles)
-
-## apt est votre meilleur ami
-> - Installer un paquet : `apt-get install <pkg>`
-> - Supprimer un paquet : `apt-get remove <pkg>`
-> - Mettre a jour la DB : `apt-get update`
-> - Mettre a jour le système : `apt-get upgrade`
-> - Rechercher un paquet : `apt-cache search <exp>`
-> - `man apt-get`, `man apt-cache`
 
 # Distributions
                                                                                  
