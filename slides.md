@@ -27,7 +27,15 @@
 	- Émulateur de terminal
 	- Shell
 
-## L'émulation
+## Un terminal
+
+![Terminal](ressources/terminal_airport.jpg)
+
+## Un autre terminal
+
+![Terminal](ressources/terminal.jpg)
+
+## D'où ça sort ?
 - Datent des terminaux physiques des années 80
 - Ce qu'on appelle couramment un terminal
 
