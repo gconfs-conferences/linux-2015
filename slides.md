@@ -33,8 +33,8 @@
 
 ## Shell heure d'interpréter
 > - Exemples : csh, ksh, bash, zsh...
-> - Interprète les commandes
-> - De vrais langages de programmation
+ - Interprète les commandes
+ - De vrais langages de programmation
 
 ## CLIquer, c'est mal
 > - Peut tout faire
@@ -258,7 +258,13 @@
 > - KISS : une philiosophie minimaliste
 > - DIY : une philosophie de débrouillard
 > - Rolling-release : une philosophie qui roule
-> - "[Arch Linux] is what you make it." : et là, c'est le drame.
+> - "[Arch Linux] is what you make it."
+
+## ArchLinux:   Keep It Simple, Stupid.
+ - KISS : une philiosophie minimaliste
+ - DIY : une philosophie de débrouillard
+ - Rolling-release : une philosophie qui roule
+ - "[Arch Linux] is what you make it." : et là, c'est le drame.
 
 ## ArchLinux: Keep It Simple, Stupid
 ![Archlinux](ressources/archfun.png)
@@ -270,6 +276,12 @@
 
 ## ArchLinux:   Keep It Simple, Stupid.
 ![ArchLinux](ressources/arch.png)
+
+## Sources
+> - man
+> - man man
+> - man man man ...
+> - google
 
 ## The end
 > - Questions ?
