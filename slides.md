@@ -270,6 +270,17 @@
 ![ArchLinux](ressources/arch.png)
 
 ## The end
-- Des questions ?
+> - Questions ?
+
+## The end
+> - Questions ? Remarques ?
+
+## The end
+> - Questions ? Remarques ? Soucis choses pas claires ?
+
+## The end
+- Questions ? Remarques ? Soucis choses pas claires ?
 - TP en salles machines !
 - Merci à tous !
+
+
