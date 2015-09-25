@@ -33,8 +33,8 @@
 
 ## Shell heure d'interpréter
 > - Exemples : csh, ksh, bash, zsh...
-> - Interprète les commandes
-> - De vrais langages de programmation
+ - Interprète les commandes
+ - De vrais langages de programmation
 
 ## CLIquer, c'est mal
 > - Peut tout faire
@@ -84,10 +84,12 @@
 - `man -k ls` (= `apropos`): pages liées
 
 ## Man chapters
-- préciser un chapitre:
-- `man 1 printf` ou `man 3 printf`
-- afficher tous les chapitres:
-- `man -a printf`
+> - préciser un chapitre:
+> - `man 1 printf`
+> - `man 3 printf`
+> - `man 3o printf`
+> - afficher tous les chapitres:
+> - `man -a printf`
 
 ## Gnu info
 - alternative gnu à `man`
@@ -103,36 +105,6 @@
 - ubuntu-fr.org
 - wiki.archlinux.fr
 - stackoverflow.com
-
-
-# Environnements       
-                                                         
-## Variables d'environnement                                                    
-> - $PATH
-> - $HOME
-> - $PWD
-> - $LANG
-> - $TERM
-> - $EDITOR
-
-## Racines                                                                      
-> - /boot                                                                       
-> - /dev                                                                        
-> - /home                                                                       
-> - /etc                                                                        
-> - /mnt                                                                        
-> - /proc                                                                       
-> - /bin                                                                        
-> - /sbin                                                                       
-> - /lib                                                                        
-> - /usr                                                                        
-> - /tmp                                                                        
-> - /var    
-
-## Compilons
-> - ./configure
-> - make
-> - make install
 
 # Les paquets
 
@@ -156,6 +128,35 @@
 > - Mettre a jour le système : `apt-get upgrade`
 > - Rechercher un paquet : `apt-cache search <exp>`
 > - `man apt-get`, `man apt-cache`
+
+# Environnements       
+                                                         
+## Variables d'environnement                                                    
+> - $PATH
+> - $HOME
+> - $PWD
+> - $LANG
+> - $TERM
+> - $EDITOR
+
+## Racines                                                                      
+> - /boot                                                                       
+> - /dev                                                                        
+> - /home                                                                       
+> - /etc                                                                        
+> - /mnt                                                                        
+> - /bin                                                                        
+> - /sbin                                                                       
+> - /lib                                                                        
+> - /usr                                                                        
+> - /tmp                                                                        
+> - /var    
+
+## Compilons
+> - ./configure
+> - make
+> - make install
+
 
 ## Les GUI
                                                                                  
@@ -249,6 +250,7 @@
 ## Fedora
 > - Dandified Yum/Yum (DNF)
 > - RPM Packed Manager (RPM) 
+> - Linus Torvalds a beaucoup utilisé cette distribution.
 
 ## Fedora
 ![Fedora](ressources/fedora.png)
@@ -257,7 +259,13 @@
 > - KISS : une philiosophie minimaliste
 > - DIY : une philosophie de débrouillard
 > - Rolling-release : une philosophie qui roule
-> - "[Arch Linux] is what you make it." : et là, c'est le drame.
+> - "[Arch Linux] is what you make it."
+
+## ArchLinux:   Keep It Simple, Stupid.
+ - KISS : une philiosophie minimaliste
+ - DIY : une philosophie de débrouillard
+ - Rolling-release : une philosophie qui roule
+ - "[Arch Linux] is what you make it." : et là, c'est le drame.
 
 ## ArchLinux: Keep It Simple, Stupid
 ![Archlinux](ressources/archfun.png)
@@ -269,6 +277,12 @@
 
 ## ArchLinux:   Keep It Simple, Stupid.
 ![ArchLinux](ressources/arch.png)
+
+## Sources
+> - man
+> - man man
+> - man man man ...
+> - google
 
 ## The end
 > - Questions ?
