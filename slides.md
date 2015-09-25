@@ -13,7 +13,11 @@
 ## Mais dis moi Jamy, c'est quoi...
 - Linux ?
 - Un kernel, créé par Linus Torvalds
+
+## Dis GNU tout
 - Un OS : GNU/Linux
+- Le Projet GNU (GNU is Not Unix)
+- Le Libre
 
 ## A new challenger is approaching!
 - Linux est indispensable en Spé
